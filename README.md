@@ -1,1 +1,2 @@
-# com.florianingerl.learnkotlin.findreplace
+# Find Anagrams
+The single purpose of this project is to test the Kotlin pogramming language. The project can be built with `mvn package` and can then be executed with `java -jar target\findreplace-1.0-SNAPSHOT-jar-with-dependencies.jar`. The program just allows the user to enter some text and then counts the anagrams contained in that text.
